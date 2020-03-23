@@ -1,0 +1,5 @@
+The goal is to get pictures and tell whether there is a wildfire in the data or not. 
+Think of it as a camera feed installed in a remote location that is looking at kilometers of jungle.
+You objectives may be detecting whether the image has fire or not, and stretch it to highlighting where the fire is.
+You can access the raw data about it here: 
+https://sintecsys-omdena.s3.amazonaws.com/images3.zip
